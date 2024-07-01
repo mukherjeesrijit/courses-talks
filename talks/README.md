@@ -43,8 +43,8 @@ Yet to write
 Deep Neural Networks hold an important place for understanding for any scientific mind. This talk focuses on how to approach deep learning from a fundamental point of view as an extension of simple models like linear and logistic regression. We also introduce backpropagation via these simple models and suggest some of my favourite books to learn more.
 
 **Place:** Haldia Institute of Technology, Haldia  
-**Presentation:** [Read here](#)  
-**YouTube Video (from 19 minutes):** [Watch here](#)  
+**Presentation:** [Read here](https://drive.google.com/file/d/1tJHP_svDe69JmCjiY81GcFRBanAGdrRP/view?usp=sharing)  
+**YouTube Video (from 19 minutes):** [Watch here](https://www.youtube.com/live/vX5LqeBHgI0?si=dQ7VOp62XdbzdCmK)  
 **Topic:** Machine Learning  
 **Date:** September 30, 2023
 
@@ -53,36 +53,30 @@ Deep Neural Networks hold an important place for understanding for any scientifi
 The issue is that you start it wrong. It's not your fault. We have never been taught the right way. We learn to try out the algorithms, select the model by model selection, and check out how the model behaves, and then choose the best model. But this is like doing surgery on the patient without doing any medical test on the person. Do you want to be that kind of a data doctor? This talk shows you the way out.
 
 **Place:** Different Colleges in India  
-**Presentation:** [Read here](#)  
-**YouTube Video:** [Watch here](#)  
+**Presentation:** [Read here](https://drive.google.com/file/d/1UGt8BUbs7-LD9wBVRkLO6Yq4Pr2JIV2a/view?usp=sharing)  
+**YouTube Video:** [Watch here](https://youtu.be/FN2TVYLqM6E)  
 **Topic:** Data Science  
 **Date:** 2023
 
 # Ensemble Learning
 
-The first ever ensemble algorithm is the sample mean. You take ensemble information from every sample element. This talk gives an elaborate introduction and understanding of Ensemble Learning, with a balanced combination of theory and hands-on.
+The first-ever ensemble algorithm is the sample mean. You take ensemble information from every sample element. This talk gives an elaborate introduction and understanding of Ensemble Learning, with a balanced combination of theory and hands-on.
 
 **Place:** STAT&ML Lab & BKC College, Kolkata  
-**Presentation:** [Read here](#)  
-**R Code:** [Get here](#)  
-**YouTube Video:** [Watch here](#)  
+**Presentation:** [Read here](https://www.ctanujit.org/uploads/2/5/3/9/25393293/ensemble_learning__1__1.pdf)  
+**R Code:** [Get here](https://drive.google.com/file/d/1HDA-RMBAES67em_wk2hOEdtIyuAWc0F2/view?usp=share_link)  
+**YouTube Video:** [Watch here](https://youtu.be/fDNO0UcoT1Y)  
 **Topic:** Machine Learning  
 **Date:** 2021
 
 
 # Make Your Machine Learn Your Favourite Calligraphy (Using R)
 
-What if you had a virtual pen which can copy your handwriting? I wish I had. This presentation aims towards sharing how you can make your machine learn your handwriting. I have used the idea of Generative Additive Model (GAM) to model my way of handwriting. We need to collect the sequence of data coordinates of your writing along with the timestamps and fit the model. This small presentation will let your machine learn your favourite calligraphic methods too. Why wait?
+What if you had a virtual pen which could copy your handwriting? I wish I had. This presentation aims towards sharing how you can make your machine learn your handwriting. I have used the idea of Generative Additive Model (GAM) to model my way of handwriting. We need to collect the sequence of data coordinates of your writing along with the timestamps and fit the model. This small presentation will let your machine learn your favourite calligraphic methods too. Why wait?
 
 **Place:** ISI Students' Seminar  
-**Presentation:** [Read here](#)  
-**R Code:** [Get here](#)  
-**YouTube Video:** [Watch here](#)  
+**Presentation:** [Read here](https://drive.google.com/file/d/1EaEpSTpgM6xzlNbat5FSN3a1xNez2SxT/view)  
+**R Code:** [Get here](https://drive.google.com/file/d/1R3amDUu5o7XT5c_OCfiszf_HWldWNAmo/view)  
+**YouTube Video:** [Watch here](https://youtu.be/7HhwCyswN6I)  
 **Topic:** Machine Learning  
 **Date:** 2021
-
- 
- (September 30, 2023) Deep Neural Networks for Engineers: Link
-* (2023) How to Start a Data Science Project - Step by Step?: Link
-* (2021) Ensemble Learning: Link
-* (2021) Make your machine learn your favourite calligraphy (Using R): Link
