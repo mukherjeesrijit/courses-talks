@@ -1,3 +1,43 @@
+# Domain Enriched Deep Learning Algorithms
+
+Yet to write
+
+**Place:** IEEE GRSS, Kolkata Chapter
+**Presentation:** [Read here](https://drive.google.com/file/d/10fCz6i0QX5RryiCyJIGHwndBupRETb_-/view?usp=sharing)  
+**YouTube Video (from 19 minutes):** Not Available
+**Topic:** Deep Learning  
+**Date:** 2024
+
+# Domain Enriched Medical ML Algorithms.pdf
+
+Yet to write
+
+**Place:** Penn State Guest lecture in DS410
+**Presentation:** [Read here](https://drive.google.com/file/d/1KYeq8oEhsqiMkELZeZ5fwYvT1wKyArAm/view?usp=sharing)  
+**YouTube Video (from 19 minutes):** Not Available
+**Topic:** Deep Learning  
+**Date:** 2024
+
+# Let's Build a BabyGPT hands-on from Scratch
+
+Yet to write
+
+**Place:** Yet to write
+**Presentation:** [Read here](https://drive.google.com/file/d/1mvj-CTToYjhxDJpW3tR6G0PdXKHfPLJo/view?usp=sharing)  
+**YouTube Video (from 19 minutes):** [Watch here](https://youtu.be/U9Uyv362X9w?si=lVHSlrxd9aEvDUvK)  
+**Topic:** Data Science  
+**Date:** 2024
+
+# Probability and Statistics for Data Science
+
+Yet to write
+
+**Place:** Yet to write
+**Presentation:** [Read here](https://drive.google.com/file/d/1Xk5wZPtCKJpCxtGZJR3lOskOFA1HxyKA/view?usp=sharing)  
+**YouTube Video (from 19 minutes):**  Not Available
+**Topic:** Data Science  
+**Date:** 2024
+
 # Deep Neural Networks for Engineers
 
 Deep Neural Networks hold an important place for understanding for any scientific mind. This talk focuses on how to approach deep learning from a fundamental point of view as an extension of simple models like linear and logistic regression. We also introduce backpropagation via these simple models and suggest some of my favourite books to learn more.
