@@ -18,7 +18,7 @@ The issue is that you start it wrong. It's not your fault. We have never been ta
 **Topic:** Data Science  
 **Date:** 2023
 
-## Ensemble Learning
+# Ensemble Learning
 
 The first ever ensemble algorithm is the sample mean. You take ensemble information from every sample element. This talk gives an elaborate introduction and understanding of Ensemble Learning, with a balanced combination of theory and hands-on.
 
