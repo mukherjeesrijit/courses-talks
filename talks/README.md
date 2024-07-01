@@ -4,7 +4,7 @@ Yet to write
 
 **Place:** IEEE GRSS, Kolkata Chapter
 **Presentation:** [Read here](https://drive.google.com/file/d/10fCz6i0QX5RryiCyJIGHwndBupRETb_-/view?usp=sharing)  
-**YouTube Video (from 19 minutes):** Not Available
+**YouTube Video (from 19 minutes):** [Not Available](#)  
 **Topic:** Deep Learning  
 **Date:** 2024
 
@@ -14,7 +14,7 @@ Yet to write
 
 **Place:** Penn State Guest lecture in DS410
 **Presentation:** [Read here](https://drive.google.com/file/d/1KYeq8oEhsqiMkELZeZ5fwYvT1wKyArAm/view?usp=sharing)  
-**YouTube Video (from 19 minutes):** Not Available
+**YouTube Video (from 19 minutes):** [Not Available](#)  
 **Topic:** Deep Learning  
 **Date:** 2024
 
@@ -34,7 +34,7 @@ Yet to write
 
 **Place:** Yet to write
 **Presentation:** [Read here](https://drive.google.com/file/d/1Xk5wZPtCKJpCxtGZJR3lOskOFA1HxyKA/view?usp=sharing)  
-**YouTube Video (from 19 minutes):**  Not Available
+**YouTube Video (from 19 minutes):** [Not Available](#)  
 **Topic:** Data Science  
 **Date:** 2024
 
