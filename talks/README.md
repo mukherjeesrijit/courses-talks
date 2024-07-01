@@ -63,8 +63,8 @@ The issue is that you start it wrong. It's not your fault. We have never been ta
 The first-ever ensemble algorithm is the sample mean. You take ensemble information from every sample element. This talk gives an elaborate introduction and understanding of Ensemble Learning, with a balanced combination of theory and hands-on.
 
 **Place:** STAT&ML Lab & BKC College, Kolkata  
-**Presentation:** [Read here](https://www.ctanujit.org/uploads/2/5/3/9/25393293/ensemble_learning__1__1.pdf)  
-**R Code:** [Get here](https://drive.google.com/file/d/1HDA-RMBAES67em_wk2hOEdtIyuAWc0F2/view?usp=share_link)  
+**Presentation:** [Read here](https://drive.google.com/file/d/1qbsRClpEwIPXIr8K5dQvrkHcS8cEvepj/view?usp=sharing)  
+**R Code:** [Get here](https://drive.google.com/file/d/1N3ylqTtzF1Urflc8IM3olrlqda5DvXQJ/view?usp=sharing)  
 **YouTube Video:** [Watch here](https://youtu.be/fDNO0UcoT1Y)  
 **Topic:** Machine Learning  
 **Date:** 2021
@@ -75,8 +75,8 @@ The first-ever ensemble algorithm is the sample mean. You take ensemble informat
 What if you had a virtual pen which could copy your handwriting? I wish I had. This presentation aims towards sharing how you can make your machine learn your handwriting. I have used the idea of Generative Additive Model (GAM) to model my way of handwriting. We need to collect the sequence of data coordinates of your writing along with the timestamps and fit the model. This small presentation will let your machine learn your favourite calligraphic methods too. Why wait?
 
 **Place:** ISI Students' Seminar  
-**Presentation:** [Read here](https://drive.google.com/file/d/1EaEpSTpgM6xzlNbat5FSN3a1xNez2SxT/view)  
-**R Code:** [Get here](https://drive.google.com/file/d/1R3amDUu5o7XT5c_OCfiszf_HWldWNAmo/view)  
+**Presentation:** [Read here](https://drive.google.com/file/d/1OX25KbopqFqShtoewH2rfhorzZ7nJ1cy/view?usp=sharing)  
+**R Code:** [Get here](https://drive.google.com/file/d/1AueTT8vErfaAAsSc1qbUXoyjk3WqrAkj/view?usp=sharing)  
 **YouTube Video:** [Watch here](https://youtu.be/7HhwCyswN6I)  
 **Topic:** Machine Learning  
 **Date:** 2021
